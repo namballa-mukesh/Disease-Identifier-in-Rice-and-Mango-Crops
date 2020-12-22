@@ -1,6 +1,6 @@
 # Disease-Identifier-in-Rice-and-Mango-Crops
 
-This is a machine learning project which where I implemented a model which can identify the disease in rice and mango crops based on the images of infected leaves.
+This is a machine learning project where a model to identify the disease in rice and mango crops based on the images of infected leaves is implemented.
 
 Following are the phases of implementation:
 1. Data Collection
